@@ -1,3 +1,3 @@
-module random-password
+module random_password_generator
 
-go 1.17
+go 1.27.0
